@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un repositorio de prueba para el modulo 2 del prepcourse de henry
+danny valenncia
+este rpyecto es una pruebla de como crear un repositorio y clonarlo desde githun a mi ordenador
